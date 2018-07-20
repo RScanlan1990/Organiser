@@ -1,0 +1,11 @@
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\bin\Debug\netcoreapp2.0\JustASpike.deps.json
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\bin\Debug\netcoreapp2.0\JustASpike.runtimeconfig.json
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\bin\Debug\netcoreapp2.0\JustASpike.runtimeconfig.dev.json
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\bin\Debug\netcoreapp2.0\JustASpike.dll
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\bin\Debug\netcoreapp2.0\JustASpike.pdb
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\obj\Debug\netcoreapp2.0\JustASpike.csprojAssemblyReference.cache
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\obj\Debug\netcoreapp2.0\JustASpike.csproj.CoreCompileInputs.cache
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\obj\Debug\netcoreapp2.0\JustASpike.AssemblyInfoInputs.cache
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\obj\Debug\netcoreapp2.0\JustASpike.AssemblyInfo.cs
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\obj\Debug\netcoreapp2.0\JustASpike.dll
+C:\code\JustASpike\JustASpike\JustASpike\JustASpike\obj\Debug\netcoreapp2.0\JustASpike.pdb
